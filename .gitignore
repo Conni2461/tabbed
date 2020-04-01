@@ -1,0 +1,8 @@
+tabbed
+xembed
+*.o
+*.orig
+*.rej
+tags
+
+.ccls-cache/
