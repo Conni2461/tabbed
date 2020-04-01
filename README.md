@@ -1,13 +1,13 @@
-tabbed - generic tabbed interface
-=================================
+# tabbed - generic tabbed interface Fork
+
 tabbed is a simple tabbed X window container.
 
-Requirements
-------------
+## Requirements
+
 In order to build tabbed you need the Xlib header files.
 
-Installation
-------------
+## Installation
+
 Edit config.mk to match your local setup (tabbed is installed into
 the /usr/local namespace by default).
 
@@ -16,7 +16,6 @@ Afterwards enter the following command to build and install tabbed
 
     make clean install
 
-Running tabbed
---------------
-See the man page for details.
+## Running tabbed
 
+See the man page for details.
