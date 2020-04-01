@@ -22,5 +22,6 @@ See the man page for details.
 
 ## Applied Patches
 
+- [Alpha](https://tools.suckless.org/tabbed/patches/alpha/alpha.diff)
 - [Hide tabs](https://tools.suckless.org/tabbed/patches/hidetabs/tabbed-hidetabs-20191216-b5f9ec6.diff)
 - [Tabbed Keyrelease](https://tools.suckless.org/tabbed/patches/keyrelease/tabbed-keyrelease-20191216-b5f9ec6.diff)
